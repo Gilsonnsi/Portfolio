@@ -1,0 +1,123 @@
+.bg{
+    height: auto;
+    background: url('damier\ ludique.PNG');
+    background-size:auto;
+}
+h1{
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-image: url(Sanstitre-removebg-preview.png);
+  background-size: repeat;
+}
+
+li {
+  border: 2px solid rgb(59, 110, 170) ;
+  padding: 1em;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: WHITE;
+}
+
+ol{
+  display: flex;
+  list-style: none;
+  justify-content: center;
+}
+ul {
+  display: flex;
+  list-style: none;
+  justify-content: flex-start;
+}
+
+.fit-picture {
+    width: 100px;
+  }
+  .fyt-picture {
+    width: 400px;
+  }
+
+select {
+    border: 2px solid rgb(59, 110, 170) ;
+    padding: 1em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: WHITE;
+}
+
+p{
+display: flex;
+list-style: none;
+justify-content: center;
+align-items: center;
+width: 500px;
+font-size: 4vh;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+background-color: WHITE;
+padding: .5%;
+border: solid orange;
+}
+
+.container {
+  padding: 20px;
+}
+.boxi{
+  float: right;
+  padding-right: 110vh;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.box{
+  box-sizing: content-box;
+  width: 98%;
+  border: solid rgb(59, 110, 170) 5px;
+  padding: 3px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: WHITE;
+}
+.boxi2{
+  float: left;
+  padding-left: 110vh;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2{
+  text-align: center;
+}
+.bgt{  
+  background-image: url(Sanstitre-removebg-preview.png);
+  background-size: auto;}
+
+.bo{
+  box-sizing: content-box;
+  width: 70%;
+  height: 64%;
+  margin-left: auto;
+  margin-right: auto;
+  border: solid #F1CE42 5px;
+  padding: 3px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgb(255, 255, 255);
+}
+.bo2{
+  box-sizing: content-box;
+  width: 70%;
+  height: 64%;
+  margin-left: auto;
+  border: solid hsl(92, 67%, 45%) 5px;
+  padding: 3px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 900;
+  text-decoration: underline;
+  background-color: WHITE;
+}
+.bo1{
+  box-sizing: content-box;
+  width: 70%;
+  height: 64%;
+  margin-right: auto;
+  border: solid #bc4749 5px;
+  padding: 3px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 200;
+  background-color: WHITE;
+}
+.pres{
+  width: 25%;
+  height: 20%;
+}
